@@ -1,0 +1,7 @@
+command
+takeoff
+delay 5
+ccw 90
+forward 10
+land
+
