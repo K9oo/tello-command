@@ -2,6 +2,13 @@ command
 takeoff
 delay 5
 ccw 90
+cw 180
+ccw 90
+forward 30
 forward 10
+back 50
+forward 10
+flip l
+flip r
 land
 
